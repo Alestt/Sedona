@@ -1,0 +1,30 @@
+.reasons__item {
+  text-align: center;
+}
+
+.reasons__text {
+  color: $light-text;
+}
+
+.reasons__item--top {
+  color: $white;
+  background-color: $secondary;
+}
+
+.reasons__item--basic {
+  background-color: $light;
+}
+
+.reasons__title {
+  font-size: 18px;
+}
+
+.reasons__description {
+  line-height: 21px;
+}
+
+.reasons__advices {
+  list-style: none;
+  color: $main-text;
+  background-color: $white;
+}

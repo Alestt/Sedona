@@ -1,3 +1,16 @@
-@import "fonts.scss";
-@import "variables.scss";
-@import "global";
+// global
+
+@import "global/fonts.scss";
+@import "global/variables.scss";
+@import "global/global.scss";
+
+
+// blocks
+@import "blocks/page.scss";
+@import "blocks/nav.scss";
+@import "blocks/intro.scss";
+@import "blocks/reasons.scss";
+@import "blocks/advices.scss";
+@import "blocks/search.scss";
+@import "blocks/page-footer.scss";
+@import "blocks/social.scss";
